@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "RainThings blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号「后端技术学堂」分享、记录、成长"
+description: "公开博客"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/raw/master/gzh/公众号二维码.png
+#avatar: https://github.com/lemonchann/images/raw/master/gzh/公众号二维码.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
@@ -40,10 +40,10 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: ning-meng-cheng-31-94
-  email: lemonchann@foxmail.com
+  email: 
   facebook:
   flickr:
-  github: lemonchann 
+  github: rainthings 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -62,18 +62,18 @@ footer-text: Copyright (c) 2019 lemon
 disqus: # fromendworld
 
 # Gitalk
-gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+#gitalk:
+  #clientID: bd65d5c0df878155b7fa
+  #clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  #repo: lemonchann.github.io
+  #owner: lemonchann
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://rainthings.github.io/blog
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
